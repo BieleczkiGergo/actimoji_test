@@ -15,3 +15,9 @@ word for us and we do everything else manually, on discord.
 
 We did this to see how the game would work overall, and get some insight into how we should plan
 the game.
+
+## Where can I access it?
+
+You can access this at https://bieleczkigergo.github.io/actimoji_test/index.html
+
+Alternatively, you can clone this repo and open the index.html in your browser.
