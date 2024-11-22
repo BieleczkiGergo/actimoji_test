@@ -13,13 +13,19 @@ const words = [
     "skibidi toilet",
     ["puzzle", "🧩"],
     "action",
+    "dictator",
+    "John Wick",
 
     // Words generated with randomwordgenerator.com
     "galaxy",
     "tired",
     "fight",
     ["blind", "🧑‍🦯👩‍🦯👨‍🦯🦯"],
-    ["goat", "🐐"]
+    ["goat", "🐐"],
+
+    // Words suggested by Kitti
+    ["apple", "🍏🍎"],
+    "murder",
 
 ];
 
