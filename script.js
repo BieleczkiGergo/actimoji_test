@@ -3,8 +3,8 @@ const word_out = document.getElementById("word_out");
 const emoji_out = document.getElementById("emoji_out");
 
 const words = [
-    "Elon Musk",
     ["car", "🚗"],
+    "Elon Musk",
     ["engineer", ""],
     ["melon", "🍉🍈"],
     ["lemon", "🍋"],
@@ -15,13 +15,17 @@ const words = [
     "action",
     "dictator",
     "John Wick",
+    "solar system",
+    "solar power",
+    "sneeze",
 
     // Words generated with randomwordgenerator.com
     "galaxy",
-    "tired",
+    ["tired", "😫"],
     "fight",
     ["blind", "🧑‍🦯👩‍🦯👨‍🦯🦯"],
     ["goat", "🐐"],
+    ["helicopter"],
 
     // Words suggested by Kitti
     ["apple", "🍏🍎"],
